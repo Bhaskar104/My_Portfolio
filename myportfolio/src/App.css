@@ -4,4 +4,20 @@
 @tailwind utilities;
 
 
+
+::-webkit-scrollbar {
+    width: .3em;
+  }
+
+
+  ::-webkit-scrollbar-thumb {
+    background: #1986a7;
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #0d6682; 
+  }
+
+
  
