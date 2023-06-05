@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        poppins:['Cormorant Garamond']
+        poppins:['Orbitron', 'sans-serif']
       }
     },
   },
